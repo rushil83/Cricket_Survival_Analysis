@@ -27,7 +27,7 @@ Here we are plotting 3 graphs (https://goo.gl/photos/y8Fq4eR2VqDPiGSL7)
 First we will pulled our data and fetch them in the correct data format for modeling graphs
 For this data we have created 3 graphs but similarly you can create many different statistically related graphs. 
 
-- Country(players) vs career length = this graph tells us about what are the probability of that countrys players
+- ![Country(players) vs career length](https://github.com/rushil83/Cricket_Survival_Analysis/blob/master/graphs/countrys_vs_career-length.png) : this graph tells us about what are the probability of that countrys players
 to survive the specific career length
-- strike rate vs career length
-- runs vs career length
+- ![strike rate vs career length](https://github.com/rushil83/Cricket_Survival_Analysis/blob/master/graphs/strike-rate_vs_career-length.png)
+- ![runs vs career length](https://github.com/rushil83/Cricket_Survival_Analysis/blob/master/graphs/runs_vs_career-length.png)
